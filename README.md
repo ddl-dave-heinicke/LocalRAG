@@ -27,4 +27,4 @@ RUN pip install -i https://test.pypi.org/simple/ streamlit-chat-domino
 ### 
 
 
-<img src="chatbot_img.png"  width="800" height="600">
+<img src="creadme_images/Rag_App.png"  width="800" height="600">
