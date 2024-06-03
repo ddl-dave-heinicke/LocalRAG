@@ -1,4 +1,4 @@
-trulens_eval
-chromadb
-openai
-mlflow==2.11.0
+#trulens_eval
+#chromadb
+#openai
+#mlflow==2.11.0
